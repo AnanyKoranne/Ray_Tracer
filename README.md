@@ -55,7 +55,7 @@ raytracer/
 
 ### **1. Clone the repository**
 ```bash
-git clone https://github.com/<your-username>/raytracer.git
+git clone https://github.com/AnanyKoranne/Ray_Tracer.git
 cd raytracer
 ```
 ### **2. Create a build directory and compile**
