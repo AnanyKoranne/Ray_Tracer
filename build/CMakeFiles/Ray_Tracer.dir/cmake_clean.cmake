@@ -1,4 +1,5 @@
 file(REMOVE_RECURSE
+  "CMakeFiles/Ray_Tracer.dir/link.d"
   "CMakeFiles/Ray_Tracer.dir/src/main.cpp.o"
   "CMakeFiles/Ray_Tracer.dir/src/main.cpp.o.d"
   "Ray_Tracer"
