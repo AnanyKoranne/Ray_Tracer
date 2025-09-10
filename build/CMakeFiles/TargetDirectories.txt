@@ -1,3 +1,3 @@
-/home/shoyo/Projects/Ray_Tracer/build/CMakeFiles/Ray_Tracer.dir
-/home/shoyo/Projects/Ray_Tracer/build/CMakeFiles/edit_cache.dir
-/home/shoyo/Projects/Ray_Tracer/build/CMakeFiles/rebuild_cache.dir
+/home/shoyo/Documents/Ray_Tracer/Ray_Tracer/build/CMakeFiles/Ray_Tracer.dir
+/home/shoyo/Documents/Ray_Tracer/Ray_Tracer/build/CMakeFiles/edit_cache.dir
+/home/shoyo/Documents/Ray_Tracer/Ray_Tracer/build/CMakeFiles/rebuild_cache.dir
