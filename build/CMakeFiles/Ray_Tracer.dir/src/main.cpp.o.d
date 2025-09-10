@@ -184,4 +184,5 @@ CMakeFiles/Ray_Tracer.dir/src/main.cpp.o: \
  /usr/include/c++/14/bits/locale_facets.tcc \
  /usr/include/c++/14/bits/basic_ios.tcc \
  /usr/include/c++/14/bits/ostream.tcc /usr/include/c++/14/istream \
- /usr/include/c++/14/bits/istream.tcc
+ /usr/include/c++/14/bits/istream.tcc \
+ /home/shoyo/Documents/Ray_Tracer/Ray_Tracer/src/ray.h
